@@ -1,0 +1,13 @@
+{
+	"Personer": [{
+			"name": "Ludvig",
+			"mood": "tired",
+			"age": 27
+		},
+		{
+			"name": "Gustav",
+			"mood": "sur",
+			"age": "zoomer"
+		}
+	]
+}

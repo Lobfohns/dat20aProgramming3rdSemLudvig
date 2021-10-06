@@ -1,0 +1,6 @@
+HTTP Methods:
+GET: Retrieve resource(s), has no body
+POST: Creates new resources, has a body
+PUT: Replaces the entire resource, has a body
+PATCH: Updates parts of the resource, has a body
+DELETE: Deletes resources, has a body

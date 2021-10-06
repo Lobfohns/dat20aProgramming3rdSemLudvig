@@ -1,0 +1,12 @@
+//String literal
+"Hello World"
+
+//Function literal
+() ->System.out.println("Hello World")
+Also cherished by the names of : Lambda, anomyous function
+
+//Method
+public void greetings(){
+    system.out.println("Hello World");
+
+}
